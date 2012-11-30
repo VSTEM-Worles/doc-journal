@@ -1,0 +1,7 @@
+#######################
+Notes on cloud services
+#######################
+https://mail.google.com
+https://github.com/signup/free
+https://api.heroku.com/signup
+https://c9.io/site/pricing/
